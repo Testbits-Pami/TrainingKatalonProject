@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginDemoblaze-EnvProfiles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f27e482-be15-4fa4-bcd6-5dbfa9cf86e9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e15efc7e-8d79-423c-bb9e-062fac82003a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f3245633-b744-48f9-aa06-fe807e704473</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c243e835-7596-4598-b795-07539432b235</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.demoblaze.com/index.html'</defaultValue>
+      <description></description>
+      <id>e15efc7e-8d79-423c-bb9e-062fac82003a</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'qatb_demo1'</defaultValue>
+      <description></description>
+      <id>f3245633-b744-48f9-aa06-fe807e704473</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'o+tS4OuGt32s9ezZj287yw=='</defaultValue>
+      <description></description>
+      <id>c243e835-7596-4598-b795-07539432b235</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

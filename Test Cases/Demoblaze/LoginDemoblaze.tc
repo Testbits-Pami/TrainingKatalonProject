@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginDemoblaze</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62caf764-4f51-4745-a12a-9f4015f5b3d9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a9edb99f-d67e-4f25-ba1f-57c8679be588</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c27389bd-4872-4b5f-b261-08dc3572ced1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ad7d6693-90a1-47c0-a9dd-deae85688d36</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.demoblaze.com/index.html'</defaultValue>
+      <description></description>
+      <id>a9edb99f-d67e-4f25-ba1f-57c8679be588</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.USERNAME</defaultValue>
+      <description></description>
+      <id>c27389bd-4872-4b5f-b261-08dc3572ced1</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'o+tS4OuGt32s9ezZj287yw=='</defaultValue>
+      <description></description>
+      <id>ad7d6693-90a1-47c0-a9dd-deae85688d36</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

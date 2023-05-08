@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ParameterizeWebObjectDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e29b05d4-abb0-40f6-943c-d5eb6e9331a1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0ddb1440-bebc-4c0e-ae71-54ed9b746770</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Medicaid'</defaultValue>
+      <description></description>
+      <id>0ddb1440-bebc-4c0e-ae71-54ed9b746770</id>
+      <masked>false</masked>
+      <name>program</name>
+   </variable>
+</TestCaseEntity>

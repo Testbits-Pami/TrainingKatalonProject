@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LoginDemoBlazeDDT-TS</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>3</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d439cc34-9f8a-43c2-83ac-f378fede199e</testSuiteGuid>
+   <testCaseLink>
+      <guid>1f7b687f-aff4-42ea-a995-5b18e601c0e0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Demoblaze/LoginDemoblaze - DDT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>22ff4490-ec37-428c-bcf8-883751e0f0b8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginDataDemoBlaze</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>57e53aa7-887b-4396-9897-d6650f16fa2d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>22ff4490-ec37-428c-bcf8-883751e0f0b8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>3f4a513c-6d81-447a-a8e2-01be4975abe6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>22ff4490-ec37-428c-bcf8-883751e0f0b8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>787d9d8b-2696-4d1e-b55c-babd8465ccab</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

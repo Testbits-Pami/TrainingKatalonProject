@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddToCartDemoblaze</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a379e472-837e-4de8-8324-8654cd978c18</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7defa35e-3920-49d8-b510-d9bbb802435f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Samsung galaxy s6'</defaultValue>
+      <description></description>
+      <id>7defa35e-3920-49d8-b510-d9bbb802435f</id>
+      <masked>false</masked>
+      <name>product</name>
+   </variable>
+</TestCaseEntity>

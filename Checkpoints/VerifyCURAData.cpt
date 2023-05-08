@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>VerifyCURAData</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/MakeAppointmentDataCura</source-url>
+   </source-info>
+   <taken-date>2023-05-08T12:22:00.361</taken-date>
+   <column-names>
+      <column-name>facility</column-name>
+      <column-name>program</column-name>
+      <column-name>date</column-name>
+      <column-name>comment</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Tokyo CURA Healthcare Center",
+      "checked": false
+    },
+    {
+      "value": "None",
+      "checked": false
+    },
+    {
+      "value": "5/9/23",
+      "checked": false
+    },
+    {
+      "value": "test1",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Hongkong CURA Healthcare Center",
+      "checked": false
+    },
+    {
+      "value": "Medicare",
+      "checked": false
+    },
+    {
+      "value": "5/10/23",
+      "checked": false
+    },
+    {
+      "value": "test2",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Seoul CURA Healthcare Center",
+      "checked": false
+    },
+    {
+      "value": "Medicaid",
+      "checked": false
+    },
+    {
+      "value": "5/11/23",
+      "checked": false
+    },
+    {
+      "value": "test3",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

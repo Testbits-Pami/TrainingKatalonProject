@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SignUpDemoblaze</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d909e6e-8f28-4657-ae17-43dbd0fbeab9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3c18de66-bd7e-4630-9f08-15f1f057d436</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'o+tS4OuGt32s9ezZj287yw=='</defaultValue>
+      <description></description>
+      <id>3c18de66-bd7e-4630-9f08-15f1f057d436</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

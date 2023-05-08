@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointSample</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/SampleDF-Checkpoint</source-url>
+   </source-info>
+   <taken-date>2023-05-08T12:29:46.245</taken-date>
+   <column-names>
+      <column-name>name</column-name>
+      <column-name>hobby</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "pami",
+      "checked": false
+    },
+    {
+      "value": "football",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "luqman",
+      "checked": true
+    },
+    {
+      "value": "dota",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
